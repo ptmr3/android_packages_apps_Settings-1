@@ -165,6 +165,8 @@
   <string name="notification_light_voicemail_title">دەنگەنامە</string>
   <string name="adaptive_backlight_title">لایتی دواوە</string>
   <string name="adaptive_backlight_summary">ڕێکخستنی جوڵەی ڕۆشنایی نیشاندانی لایتی دواوە وە ماوەی باتری</string>
+  <string name="sunlight_enhancement_title">هه‌ستیاری خۆر</string>
+  <string name="sunlight_enhancement_summary">هه‌ستیاری ڕووناکی شاشه‌ و خوێندنه‌وه‌ی له‌ژێر خۆر</string>
   <string name="color_enhancement_title">ڕەنگی زیادکراوەکان</string>
   <string name="color_enhancement_summary">زیادکردنی ڕه‌نگی شاشه‌ </string>
   <string name="wake_when_plugged_or_unplugged_title">هەڵسان لە پلاگ</string>
@@ -201,13 +203,6 @@
   <string name="lockpattern_settings_reset_summary">دانانی هه‌ژماری پۆستی ئیلکترۆنی سه‌ره‌تای به‌ تێپه‌ڕه‌ وشه‌وه‌ بۆ ڕێکخستنه‌وه‌ی قوفڵی ڕاکێشان</string>
   <string name="lockpattern_settings_enable_error_path_title">پیشاندانی هەڵەی چنراو</string>
   <string name="lockpattern_settings_enable_dots_title">پیشاندانی خاڵەکانی چنراو</string>
-<<<<<<< HEAD
-  <string name="screen_security_category">ئاسایشی ڕوونما</string>
-  <string name="screen_security_summary">بینین یان گۆڕینی ڕێکخستنی قوفڵی شاشه‌</string>
-  <string name="unlock_menu_unlock_title">چالاکردنیی پێڕست</string>
-  <string name="unlock_menu_unlock_summary">دەستنان بە دوگمەی پێڕست بۆ چالاکردنیی ئامێرەکە</string>
-  <string name="unlock_home_unlock_title">چالاکردنیی ماڵ</string>
-=======
   <string name="screen_security_category">قوفڵی ڕوونما</string>
   <string name="screen_security_summary">بینین یان گۆڕینی ڕێکخستنی قوفڵی ڕوونما</string>
   <string name="unlock_scramble_pin_layout_title">ته‌خته‌ی تێکه‌ڵ</string>
@@ -215,7 +210,6 @@
   <string name="unlock_menu_unlock_title">چالاککردنی پێڕست</string>
   <string name="unlock_menu_unlock_summary">دەستنان بە دوگمەی پێڕست بۆ چالاککردنی ئامێرەکە</string>
   <string name="unlock_home_unlock_title">چالاککردنی ماڵ</string>
->>>>>>> ac39da4... Automatic translation import
   <string name="unlock_home_unlock_summary">پەنجە نان بە دوگمەی ماڵ بۆ چالاکردنی ئامێرەکە</string>
   <string name="unlock_camera_unlock_title">چالاککردنی کامێرا</string>
   <string name="unlock_camera_unlock_summary">دەستنان بە دوگمەی کامێرا بۆ چالاککردنی ئامێرەکە</string>
@@ -244,11 +238,7 @@
   <string name="add_heads_up_blacklist_summary">فه‌رموه‌ به‌رنامه‌کان نیشان مه‌ده‌ له‌م به‌رنامانه‌</string>
   <string name="heads_up_dnd_title">بێزارم مەکە</string>
   <string name="heads_up_blacklist_title">لیستی ڕەش</string>
-<<<<<<< HEAD
-  <string name="heads_up_disabled_notice">بۆ ڕێگه‌پێدان به‌ به‌رنامه‌ بۆ نیشاندانی ئاگاداری  بچوکه‌ دیده‌ن و په‌نجه‌ره‌ی له‌سه‌ر شاشه‌که‌ت.فه‌رمووه‌کان کارپێبکه‌.</string>
-=======
   <string name="heads_up_disabled_notice">بۆ ڕێگه‌پێدان به‌ به‌رنامه‌ بۆ نیشاندانی ئاگاداری  ده‌رکه‌وته‌ و په‌نجه‌ره‌ی له‌سه‌ر ڕوونماکه‌ت.ده‌رکه‌وته‌کان کارپێبکه‌.</string>
->>>>>>> ac39da4... Automatic translation import
   <string name="title_tile_airplane">باری فڕۆکە</string>
   <string name="title_tile_battery">باری باتری</string>
   <string name="title_tile_bluetooth">بلوتوس</string>
@@ -370,6 +360,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="display_rotation_180_title">180 پلە</string>
   <string name="display_rotation_270_title">270 پلە</string>
   <string name="advanced_reboot_title">خستنەوەگەڕی پێشکەوتوو</string>
+  <string name="advanced_reboot_summary">کاتێک قوفڵ کراوه‌یه‌، هه‌ڵبژاردنێک هه‌بێ بۆ لیستی دوگمه‌ی پاوه‌ر بۆ کوژانه‌وه‌ و دووباره‌ کارپێکردنه‌وه‌</string>
   <string name="app_security_title">ئاسایشی بەرنامە</string>
   <string name="root_access">ڕێگای ڕەگ</string>
   <string name="root_access_warning_title">ڕێگەدان بە ڕێگەکان؟</string>
@@ -674,7 +665,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="hardware_keys_action_search">یارمەتی گەڕان</string>
   <string name="hardware_keys_action_voice_search">گەڕانی دەنگی</string>
   <string name="hardware_keys_action_in_app_search">گەڕانی بەرنامە</string>
-  <string name="hardware_keys_action_launch_camera">چالاکردنیی کامێرا</string>
+  <string name="hardware_keys_action_launch_camera">کامێرا کردنەوە</string>
+  <string name="hardware_keys_action_last_app">کۆتا به‌رنامه‌</string>
   <string name="power_end_call_title">کۆتاییهاتنی پەیوەندی</string>
   <string name="power_end_call_summary">ده‌ستنان به‌ دوگمه‌ی پاوه‌ر کۆتایی به‌ په‌یوه‌ندی ده‌هێنێت</string>
   <string name="button_wake_title">لەخەوهەستان</string>
@@ -931,12 +923,9 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="show_dev_already_cm">پێویست ناکات، تۆ پێشتر ڕێکخستنی گه‌شه‌پێده‌ریت کارپێکردووه‌.</string>
   <string name="enable_adb_cm">ڕاستكردنه‌وه‌ی ئەندرۆید</string>
   <string name="enable_adb_summary_cm">کارپێکردنی هه‌ڵدۆزه‌ری ئه‌ندرۆیدی پرد (abd)</string>
-<<<<<<< HEAD
-=======
   <string name="spam_added_title"> <xliff:g id="time_since" example="5 minutes ago">%1$s</xliff:g> زیادکرا</string>
   <string name="spam_last_blocked_title">دوایین ڕاگیراوه‌کان <xliff:g id="time_since" example="5 minutes ago">%1$s</xliff:g> (total: <xliff:g id="count" example="2 times">%2$s</xliff:g>)</string>
   <string name="block_notifications_title">فلتەرکردنی ئاگادارییه‌کان</string>
   <string name="block_notifications_summary">به‌ڕێوه‌بردنی ئاگادارییه‌ پشتگوێخراوه‌کان</string>
   <string name="no_filters_title">هیچ فلته‌ری له‌سه‌رنییه‌. بۆ دانانی فلته‌ر له‌سه‌ری، ده‌ستی له‌سه‌ر ڕابگره‌ و \'پشتگوێخستنی نامه‌کان وه‌ک ئه‌مانه‌\' هه‌ڵبژێره‌.</string>
->>>>>>> ac39da4... Automatic translation import
 </resources>
